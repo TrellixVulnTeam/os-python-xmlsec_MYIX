@@ -1,3 +1,9 @@
+python-xmlsec (1.3.11-1pexip4) pexip; urgency=medium
+
+  * Version bump
+
+ -- Huw Jones <huw@pexip.com>  Mon, 25 Apr 2022 16:55:42 +0100
+
 python-xmlsec (1.3.11-1pexip3) pexip; urgency=medium
 
   * Rebuild for main.
